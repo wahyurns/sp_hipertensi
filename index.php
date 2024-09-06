@@ -13,7 +13,7 @@ include "config/fungsi_alert.php";
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-	<base href="http://localhost/sp_hipertensi/">
+	<base href="https://wahyurns.github.io/sp_hipertensi/">
     <!-- Favicon icon -->
     <link rel="icon" type="image/png" sizes="16x16" href="./images/favicon.png">
 	<link href="./vendor/owl-carousel/owl.carousel.css" rel="stylesheet">
